@@ -30,13 +30,13 @@ diskon, pajak, dan total pembayaran.
 
 1. Simpan proyek pada folder htdocs.
 2. Aktifkan Apache.
-3. Buka http://localhost/KasirFungsi_P04_Ani/
+3. Buka http://localhost/KasirFungsi_P04_Rafael/
 4. Isi formulir.
 5. Klik Hitung.
 
 ## Pengujian
 
-Buka http://localhost/KasirFungsi_P04_Ani/uji.php
+Buka http://localhost/KasirFungsi_P04_Rafael/uji.php
 
 Hasil yang diharapkan: sembilan pengujian LULUS.
 
