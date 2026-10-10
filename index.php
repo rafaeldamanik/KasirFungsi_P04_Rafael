@@ -92,7 +92,7 @@ if (($_SERVER['REQUEST_METHOD'] ?? 'GET') === 'POST') {
 <body>
     <main class="wadah">
         <header class="kepala">
-            <p class="label">PEMROGRAMAN WEB II — PRAKTIKUM 4</p>
+            <p class="label">PEMROGRAMAN WEB II Rafael — PRAKTIKUM 4</p>
             <h1>Kasir Fungsi PHP</h1>
             <p>
                 Isi data transaksi dan klik Hitung.
